@@ -1,10 +1,11 @@
 First experience with Rust
 
-Based on the following version of rustlings: https://github.com/rust-lang/rustlings/tree/f2de12aa3443af2e989a045d9035294184d36eee
+Based on the following version of rustlings:  
+https://github.com/rust-lang/rustlings/tree/f2de12aa3443af2e989a045d9035294184d36eee
 
-For similar corrections:
-https://github.com/gaveen/rustlings-solutions-5/tree/main
-https://github.com/aliyyousuff/rustlings-solutions/tree/main
+For similar corrections:  
+https://github.com/gaveen/rustlings-solutions-5/tree/main  
+https://github.com/aliyyousuff/rustlings-solutions/tree/main  
 
 
 # Exercise to Book Chapter mapping
